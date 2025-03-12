@@ -344,3 +344,8 @@ li {
         object-fit: cover;
     }
 }
+
+/* 移除内联样式，添加新的CSS类 */
+.header-content {
+    margin-top: 0;
+}
